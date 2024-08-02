@@ -1,0 +1,9 @@
+## Initial Terraform Module
+this module provide S3 and DynamoDB tables creation for Lock and tfstate files of all other modules.
+usage:
+  set AWS profile in your shell
+  terraform init
+  terraform plan
+  terraform apply
+
+Only for this module state stored in Git. 

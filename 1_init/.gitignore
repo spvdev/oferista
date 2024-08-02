@@ -1,0 +1,6 @@
+/.terraform/*
+*.backup
+*.plan
+/.aws/*
+*.svg
+*.retry
